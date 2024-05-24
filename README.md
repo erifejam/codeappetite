@@ -1,6 +1,6 @@
 # codeappetite
 
-** Note : this is a mock implementation of our idea and functionalities arn't implemented.
+**Note : this is a mock implementation of our idea and functionalities arn't implemented.**
 
 Codeappetite aims to address the problem of food waste and hunger by creating a more efficient and effective system for connecting surplus food with those who need it and those who have surpless food to give, ultimately reducing food waste and improving food security for our users.
 
